@@ -1,2 +1,2 @@
 # test_repo_thur
-Git training
+Lets learn git
